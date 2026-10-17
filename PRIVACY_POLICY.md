@@ -1,8 +1,8 @@
 ﻿# Privacy Policy for Shri Kalki Puranam Premium
 
 **Effective Date:** October 16, 2026  
-**Application:** à¤¶à¥à¤°à¥€à¤•à¤²à¥à¤•à¤¿à¤ªà¥à¤°à¤¾à¤£à¤®à¥ - Kalki Purana (`com.ramabhadra.shrikalkipuranam`)  
-**Developer:** Ramabhadra / Dharma Tech  
+**Application:** à¤¶à¥à¤°à¥€à¤•à¤²à¥à¤•à¤¿à¤ªà¥à¤°à¤¾à¤£à¤®à¥ - Kalki Purana (`com.Nabraj Kandel.shrikalkipuranam`)  
+**Developer:** Nabraj Kandel / Dharma Tech  
 **Category:** Books & Reference / Spiritual Literature  
 
 ---
@@ -50,7 +50,8 @@ Our application is designed for general audiences interested in ancient Vedic li
 
 ## 6. Contact Information
 If you have questions regarding this Privacy Policy, please reach out via:
-- **Developer:** Ramabhadra / Dharma Tech
+- **Developer:** Nabraj Kandel / Dharma Tech
 - **Email:** `kandelnabraj5@gmail.com` / Developer Console Support
 - **Address:** Kathmandu, Nepal
+
 
