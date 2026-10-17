@@ -1,15 +1,15 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 =======
 # Privacy Policy for Shri Kalki Puranam Premium
 
 **Effective Date:** October 16, 2026  
-**Application:** श्रीकल्किपुराणम् - Kalki Purana (`com.ramabhadra.shrikalkipuranam`)  
+**Application:** à¤¶à¥à¤°à¥€à¤•à¤²à¥à¤•à¤¿à¤ªà¥à¤°à¤¾à¤£à¤®à¥ - Kalki Purana (`com.ramabhadra.shrikalkipuranam`)  
 **Developer:** Ramabhadra / Dharma Tech  
 **Category:** Books & Reference / Spiritual Literature  
 
 ---
 
-## 🔒 Executive Summary
+## ðŸ”’ Executive Summary
 Shri Kalki Puranam Premium is a 100% offline educational and spiritual application. **We do not collect, store, transmit, or share any personal information, device identifiers, or usage telemetry with any external servers or third parties.**
 
 ---
@@ -36,7 +36,7 @@ The app requests minimal Android permissions solely to power local, device-only 
 ---
 
 ## 3. Local Data Storage & User Control
-All personal app data (such as bookmarks, reading progress notes, theme preferences, and font configurations) is stored exclusively on your device within a private SQLite database. You can delete all locally stored data at any time via **App Settings → Reset Data** or by uninstalling the app.
+All personal app data (such as bookmarks, reading progress notes, theme preferences, and font configurations) is stored exclusively on your device within a private SQLite database. You can delete all locally stored data at any time via **App Settings â†’ Reset Data** or by uninstalling the app.
 
 ---
 
@@ -53,7 +53,7 @@ Our application is designed for general audiences interested in ancient Vedic li
 ## 6. Contact Information
 If you have questions regarding this Privacy Policy, please reach out via:
 - **Developer:** Ramabhadra / Dharma Tech
-- **Email:** `support@kalkipuranam.org` / Developer Console Support
+- **Email:** `kandelnabraj5@gmail.com` / Developer Console Support
 - **Address:** Kathmandu, Nepal
 >>>>>>> 153a4d6 (Publish Privacy Policy for Shri Kalki Puranam Premium)
 
